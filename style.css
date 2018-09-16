@@ -1,0 +1,98 @@
+@CHARSET "ISO-8859-1";
+<style>
+html{
+background-image: url("Imagens/bg4.jpg");
+background-repeat: no-repeat;
+}
+h2 {
+	color: white;
+}
+form {
+	color: white;
+	font-size: 17px;
+}
+body{
+	color:white;
+	margin: 0px;
+	padding: 0px;
+}
+ul{
+	margin: 0px;
+	padding: 0px;
+}
+table a{
+	color:black;
+	text-decoration:none;
+} 
+div#menu{
+	height: 50px;
+	margin:0px;
+}
+div#menu ul{
+	background: #666666;
+	height: 50px;
+}
+div#menu ul li{
+	position: relative;
+	display: block;
+	float: left;
+}
+#menu li a {
+  background: #666666 ;
+  display: block;
+  font-size:19px;
+  line-height: 50px;
+  margin: 0px;
+  padding: 0px 40px;
+  text-align: center;
+  text-decoration: none;
+}
+#menu > ul > li > a {
+  color: white;
+}
+#menu ul ul a {
+  color: white;
+}
+#menu li > a:hover,
+#menu ul li:hover > a {
+  background: #2580a2 ;
+  color: white;
+  text-decoration: none;
+}
+#menu li ul {
+  background: #666666;
+  display: none;
+  height: auto;
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+  position: absolute;
+}
+#menu li:hover ul {
+  display: block;
+}
+#menu li li {
+  display: block;
+  margin: 0px;
+  padding: 0px;
+  width: 200px;
+}
+#menu li:hover li a {
+  background: none;
+}
+#menu li ul a {
+  display: block;
+  height: 35px;
+  font-size: 16px;
+  margin: 0px;
+  padding: 0px 10px 13px 15px;
+  text-align: left;
+}
+#menu li ul a:hover,
+#menu li ul li:hover > a {
+  background: #2580a2;
+  border: 0px;
+  color: white;
+  text-decoration: none;
+}
+</style>
