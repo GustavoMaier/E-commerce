@@ -48,11 +48,11 @@ text-decoration:none;
 <body>
 	<center><h1>Sobre</h1></center><br>
 	<center>
-	E-commerce atualmente encontra-se na versão 4.3.0 com<br>
+	E-commerce atualmente encontra-se na versÃ£o 4.3.0 com<br>
 	todos direitos reservados aos desenvolvedores.<br><br>
-	Trabalhamos em conjunto e com seriedade para garantir aos usuários uma<br>
-	melhor experiência	ao utilizarem nossos serviços<br><br>
-	Desenvolvedor do Sistema: Gustavo Maier Knewitz
+	Trabalhamos em conjunto e com seriedade para garantir aos usuÃ¡rios uma<br>
+	melhor experiÃªncia	ao utilizarem nossos serviÃ§os<br><br>
+	Desenvolvedores do Sistema: Gustavo Maier Knewitz & Vinicius Fidelix
 	
 	</center>
 
